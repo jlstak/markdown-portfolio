@@ -1,0 +1,5 @@
+- **Azure**
+- _AWS_
+- __Google Cloud__
+- :sparkles: Docker
+- :tada: K8
