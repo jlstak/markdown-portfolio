@@ -1,1 +1,1 @@
-[jlstak @GitHub](https://github.com/jlstak)
+[jlstak at GitHub](https://github.com/jlstak)
